@@ -1,0 +1,119 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 11:23:00 Feb 1, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:58:07 May 18, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/* 
+
+TITLE: ESCAPE FAILS
+DATE: SEPTEMBER 2009
+CODE BY: TEJPOTTER.COM
+
+COLOURS:
+
+
+*/
+
+/*------------------------ CSS RESET ------------------------*/
+
+@import url("/web/20110201112300/http://escapefails.com/css/reset.css");
+
+/*------------------------ GLOBAL STYLES ------------------------*/
+
+body {
+	background: #000 url(/web/20110201112300/http://escapefails.com/images/header_top.jpg) no-repeat top center;
+	color:#fff;
+	line-height:1.5em;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:12px;
+	padding-top:60px;
+	}
+
+h1, h2 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	line-height:1.3em;
+	padding:15px 0;
+	text-transform:uppercase;
+	letter-spacing:-1px;
+	}
+
+h1 {font-size:36px;}
+
+h2 {font-size:26px;}
+
+p {
+	padding: 5px 0;
+	font-size:14px;
+	}
+
+a {
+	color:#A99781;
+	text-decoration:none;
+	}
+
+/*------------------------ STORE PAGE LAYOUT ------------------------*/
+
+
+#store {
+	background-color:#fff;
+	}
+	
+/*------------------------ MAIN PAGE LAYOUT ------------------------*/
+#logo {
+	width:720px;
+	margin:0 auto;
+	}
+
+#container {
+	width:720px;
+	margin: 0 auto;
+	background-color:#000000;
+	padding:20px;
+	}
+
+#footer {
+	margin: 0 auto;
+	width:720px;
+	border-top: 1px #161616 solid;
+	}
+
+#footer p {
+	font-size:9px;
+	}
+
+#twitter {
+	background-color:#161616;
+	padding:10px;
+	margin-bottom:20px;
+	}
+
+#tweetarrow {
+	background:url(/web/20110201112300/http://escapefails.com/images/tweet_arrow.gif) 40px 50% no-repeat;
+	height:20px;
+	clear:both;
+	}
+
+ul#twitter_update_list {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size:24px;
+	color:#666;
+	line-height:1.3em;
+	letter-spacing:-1px;
+	}
+
+#bebo {
+	padding-top:30px;
+	}
+
+.cornercurve {}
+
+/*------------------------ USEFUL CLASSES ------------------------*/
