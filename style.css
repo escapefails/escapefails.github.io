@@ -1,16 +1,3 @@
-
-
-
-
-
-/*
-     FILE ARCHIVED ON 11:23:00 Feb 1, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:58:07 May 18, 2014.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
 /* 
 
 TITLE: ESCAPE FAILS
@@ -24,12 +11,12 @@ COLOURS:
 
 /*------------------------ CSS RESET ------------------------*/
 
-@import url("/web/20110201112300/http://escapefails.com/css/reset.css");
+@import url("http://escapefails.com/css/reset.css");
 
 /*------------------------ GLOBAL STYLES ------------------------*/
 
 body {
-	background: #000 url(/web/20110201112300/http://escapefails.com/images/header_top.jpg) no-repeat top center;
+	background: #000 url(http://escapefails.com/images/header_top.jpg) no-repeat top center;
 	color:#fff;
 	line-height:1.5em;
 	font-family:Helvetica, Arial, sans-serif;
@@ -97,7 +84,7 @@ a {
 	}
 
 #tweetarrow {
-	background:url(/web/20110201112300/http://escapefails.com/images/tweet_arrow.gif) 40px 50% no-repeat;
+	background:url(http://escapefails.com/images/tweet_arrow.gif) 40px 50% no-repeat;
 	height:20px;
 	clear:both;
 	}
