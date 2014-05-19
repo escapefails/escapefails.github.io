@@ -9,14 +9,10 @@ COLOURS:
 
 */
 
-/*------------------------ CSS RESET ------------------------*/
-
-@import url("http://escapefails.com/css/reset.css");
-
 /*------------------------ GLOBAL STYLES ------------------------*/
 
 body {
-	background: #000 url(http://escapefails.com/images/header_top.jpg) no-repeat top center;
+	background: #000 url(header_top.jpg) no-repeat top center;
 	color:#fff;
 	line-height:1.5em;
 	font-family:Helvetica, Arial, sans-serif;
