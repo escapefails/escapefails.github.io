@@ -9,10 +9,14 @@ COLOURS:
 
 */
 
+/*------------------------ CSS RESET ------------------------*/
+
+@import url("reset.css");
+
 /*------------------------ GLOBAL STYLES ------------------------*/
 
 body {
-	background: #000 url(header_top.jpg) no-repeat top center;
+	background: #000 url(../images/header_top.jpg) no-repeat top center;
 	color:#fff;
 	line-height:1.5em;
 	font-family:Helvetica, Arial, sans-serif;
@@ -80,7 +84,7 @@ a {
 	}
 
 #tweetarrow {
-	background:url(http://escapefails.com/images/tweet_arrow.gif) 40px 50% no-repeat;
+	background:url(../images/tweet_arrow.gif) 40px 50% no-repeat;
 	height:20px;
 	clear:both;
 	}
